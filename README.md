@@ -54,7 +54,7 @@ Para executar o projeto localmente:
 - Navegue até o diretório do projeto no terminal.
 - Instale as dependências: npm install.
 - Inicie o servidor de desenvolvimento: npm run dev.
-- Abra seu navegador e acesse: http://localhost:3000.
+- Abra seu navegador e acesse.
 
 Sinta-se à vontade para explorar o projeto, modificar os valores das propriedades do perfil e experimentar com a estilização usando CSS Modules. 
 Isso ajudará a consolidar os conceitos aprendidos durante a construção do projeto.
