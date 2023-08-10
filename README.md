@@ -40,13 +40,24 @@ Ao longo do projeto, foram encontrados desafios específicos:
 ### Aprendizados: 
 Durante o desenvolvimento deste projeto, foram obtidos vários aprendizados importantes:
 
-* Reutilização de Componentes: Criar componentes reutilizáveis usando o React permite um desenvolvimento e manutenção eficientes de elementos da interface do usuário.
-* CSS Modules: Aprender a usar os CSS Modules aprimora a encapsulação de estilos e ajuda a evitar conflitos indesejados de estilos.
-Props e Fluxo de Dados: Compreender como passar dados do componente pai para os componentes filhos usando props é crucial para construir aplicativos dinâmicos e interativos.
-* Fluxo de Desenvolvimento React: Trabalhar com o Vite como ferramenta de construção proporciona um fluxo de trabalho de desenvolvimento moderno, com substituição rápida de módulos e compilações otimizadas.
+* Componentização: Como criar componentes reutilizáveis em React para modularizar a construção de interfaces.
+* Passagem de Propriedades: Como passar propriedades dinâmicas de um componente pai para um componente filho.
+* Estilização Modular: Como usar CSS Modules para estilizar componentes de forma encapsulada e evitar conflitos de estilo.
+* Configuração de Projetos React com Vite: Como configurar um projeto React usando a ferramenta de construção Vite.
 
 Ao concluir este projeto, foi estabelecida uma base sólida para a criação de componentes React, gerenciamento de estilos e estruturação de um aplicativo React básico.
 
+* Executando o Projeto
+Para executar o projeto localmente:
+
+- Clone o repositório.
+- Navegue até o diretório do projeto no terminal.
+- Instale as dependências: npm install.
+- Inicie o servidor de desenvolvimento: npm run dev.
+- Abra seu navegador e acesse: http://localhost:3000.
+
+Sinta-se à vontade para explorar o projeto, modificar os valores das propriedades do perfil e experimentar com a estilização usando CSS Modules. 
+Isso ajudará a consolidar os conceitos aprendidos durante a construção do projeto.
 ### Resultado final do Projeto
 
 ![Card-Profile](https://github.com/TiagoHenrique10/Projeto-Profile-Card-React/assets/96561261/a86278ae-2bd9-4f60-9707-76edc21dae75)
